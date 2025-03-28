@@ -6,3 +6,6 @@
 for food in Pakistan:
   food > bestfood.(World)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
